@@ -1,0 +1,32 @@
+#div1 {
+    display: flex;
+    margin-inline: auto;
+    justify-content: center;
+}
+
+#div2 {
+    display: flex;
+    margin-inline: auto;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+button {
+    display: flex;
+    margin-inline: auto;
+}
+
+img {
+    display: flex;
+    margin-inline: auto;
+}
+
+p {
+    display: flex;
+    margin-inline: auto;
+    justify-content: center;
+}
+
+body {
+    background-color: aliceblue;
+}
